@@ -1,10 +1,4 @@
-# mern-ecommerce
-
-> Frontend-> React JS
-
-> Backend-> Node JS & Express JS
-
-> Database-> MongoDB
+ecommerce
 
 ## Installation process
 1. #### clone the repo using this command
